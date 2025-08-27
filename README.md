@@ -1,4 +1,4 @@
-# 🌐 Landing Animada con Astro y GSAP
+# 🎮 Tic-Tac-Toe con React
 
 Proyecto desarrollado como práctica de fundamentos de React. Es una versión interactiva del clásico juego “Tres en Raya” donde dos jugadores pueden turnarse para marcar X y O en un tablero de 3x3.
 
